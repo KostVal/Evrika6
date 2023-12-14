@@ -1,0 +1,17 @@
+main {
+    box-sizing: border-box;
+    width: 1500px;
+    height: auto;
+}
+
+h1 {
+    padding: 20px 20% 0;
+    font-family: 'Vollkorn';
+    font-size: 32px;
+    font-weight: 600;
+}
+
+img {
+    padding: 10px 20% 0;
+    width: 940px;
+}
